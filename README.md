@@ -20,4 +20,4 @@ Simulatorul detector de margini s-a comprotat de asemenea la fel de bine, rezult
 Analiza rezultatelor experimentale înregistrate de simulatoarelor a dus la următoarele concluzii: 
 	Simulatoarele cu accelerare GPU sunt mult mai eficiente decât cele fără suport de accelerare GPU, rezultatele având diferențe enorme în timpul de execuție.
 	
-[![Open In Colab](https://colab.research.google.com/github/tioanadev/disertatie/blob/main/Dizertatie.ipynb)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tioanadev/disertatie/blob/main/Dizertatie.ipynb)
